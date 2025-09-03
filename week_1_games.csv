@@ -1,0 +1,17 @@
+schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,score_home,score_away,team_away,team_favorite_id,spread_favorite,over_under_line,stadium,stadium_neutral,weather_temperature,weather_wind_mph,weather_humidity,weather_detail
+9/4/2025,2025,1,FALSE,Philadelphia Eagles,,,Dallas Cowboys,PHI,-8,47.5,Lincoln Financial Field,FALSE,75.0,9.0,67,, 
+9/5/2025,2025,1,FALSE,Los Angeles Chargers,,,Kansas City Chiefs,KC,-3,45.5,SoFi Stadium,FALSE,72.0,0.0,,indoor
+9/7/2025,2025,1,FALSE,Atlanta Falcons,,,Tampa Bay Buccaneers,TB,-2.5,47.5,Mercedes-Benz Stadium,FALSE,72.0,0.0,,indoor
+9/7/2025,2025,1,FALSE,Cleveland Browns,,,Cincinnati Bengals,CIN,-5.5,47.5,FirstEnergy Stadium,FALSE,63.0,7.0,67,
+9/7/2025,2025,1,FALSE,Indianapolis Colts,,,Miami Dolphins,IND,-1.5,46.5,Lucas Oil Stadium,FALSE,72.0,0.0,,retractable
+9/7/2025,2025,1,FALSE,Jacksonville Jaguars,,,Carolina Panthers,JAX,-3.5,46.5,TIAA Bank Field,FALSE,75.0,3.0,67,,
+9/7/2025,2025,1,FALSE,New England Patriots,,,Las Vegas Raiders,NE,-2.5,43.5,Gillette Stadium,FALSE,68.0,7.0,67,,
+9/7/2025,2025,1,FALSE,New Orleans Saints,,,Arizona Cardinals,ARI,-6.5,42.5,Caesars Superdome,FALSE,72.0,0.0,,indoor
+9/7/2025,2025,1,FALSE,New York Jets,,,Pittsburgh Steelers,PIT,-2.5,38.5,Metlife Stadium,False,72.0,6.0,67,,
+9/7/2025,2025,1,FALSE,Washington Commanders,,,New York Giants,WAS,-6.5,45.5,FedEx Field,FALSE,72.0,4.0,67,,
+9/7/2025,2025,1,FALSE,Denver Broncos,,,Tennessee Titans,DEN,-7.5,42.5,Empower Field at Mile High,FALSE,74.0,7.0,63.0,,
+9/7/2025,2025,1,FALSE,Seattle Seahawks,,,San Francisco 49ers,SF,-2.5,43.5,Lumen Field,FALSE,68.0,6.0,,,
+9/7/2025,2025,1,FALSE,Green Bay Packers,,,Detroit Lions,GB,-2.5,47.5,Lambeau Field,FALSE,68.0,7.0,,,
+9/7/2025,2025,1,FALSE,Los Angeles Rams,,,Houston Texans,LAR,-3,44.5,SoFi Stadium,FALSE,72.0,0.0,,indoor
+9/7/2025,2025,1,FALSE,Buffalo Bills,,,Baltimore Ravens,BUF,-1.5,50.5,Highmark Stadium,FALSE,65.0,9.0,,,
+9/8/2025,2025,1,FALSE,Chicago Bears,,,Minnesota Vikings,MIN,-1.5,44.5,Soldier Field,FALSE,65.0,8.0,,,
